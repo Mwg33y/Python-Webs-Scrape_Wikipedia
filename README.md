@@ -1,6 +1,6 @@
 # Python-Webs-Scrape_Wikipedia
 
-*** Web Scraoing with Python ***
+Web Scraping with Python 
 
 We can use Python code to extract information from the front end of a website. Python allows us to look at the HTML, CSS, and Javascript that are
 used to construct the front end of web pages on the internet. Extracting data in this manner from some webpages may require permission from the 
