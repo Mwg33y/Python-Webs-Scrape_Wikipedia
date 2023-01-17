@@ -12,5 +12,5 @@ purporse (e.g. banking, youtube, newspaper, etc. ), so the web scraping code mus
 undergoes changes that can mean a complete alteration of the internal structure of the code used to build it. This can render our web scraping code 
 useless. Web scraping code should be adjusted accordingly in such cases.
 
-I used Python to extract paragraphs of information, tables, and images from a wikipedia article about the annual Temperature data in Canada. I used the
-'Beautifulsoup-4' and 'requests' packages in python to facilitate this.
+I used Python to extract paragraphs of information, tables, and images from a Wikipedia article about the annual Temperature data in Canada. I used the
+'Beautifulsoup-4' and 'requests' packages in python to facilitate this. I chose to use Wikipedia because it is a high traffic public web site. 
